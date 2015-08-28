@@ -10,7 +10,7 @@ The hunter has become the hunted. This is a honeypot that takes a picture of the
 3. Download imagesnap (http://iharder.sourceforge.net/current/macosx/imagesnap/)
 4. Extract the imagesnap binary and place is in the rebear directory
 5. ```chmod +x rebear.py```
-6. Enable Assistive Devices and add your Terminal: https://support.apple.com/en-us/HT202866
+6. Enable Assistive Devices and add your Terminal to Accessibility: https://support.apple.com/en-us/HT202866
 
 ## Usage
 ```
