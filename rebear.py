@@ -32,7 +32,7 @@ def handler(event):
 		print '[+] Captured to file: %s' % filename
 
 		# Take webcam pic
-		call([imagesnap, '-q', filename])
+		call([imagesnap, '-q','-w', '1', filename])
 
 		# Activate screensaver
 		call([screensaver_action, screenaver])
