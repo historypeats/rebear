@@ -1,0 +1,6 @@
+*.pyc
+*.jpg
+imagesnap
+env/
+*.swp
+.DS_Store
