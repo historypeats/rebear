@@ -25,3 +25,5 @@ Author: historypeats
 
 [+] Starting rebear
 ```
+### Warning
+You should still lock your computer at all times. This is for honeypot reasons.
